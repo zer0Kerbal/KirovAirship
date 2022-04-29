@@ -32,7 +32,5 @@
 	{
 		"NAME" :	  "KirovAirship",
 		"DIRECTORY" : "IcecoveryStudio/KirovAirship"
-		"NAME" : "Ships",
-		"DIRECTORY: "Ships"
 	}
 }
