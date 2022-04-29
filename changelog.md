@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/1084)                                 |
 | ckan       | KirovAirship                                                      |
 
-##  Version 0.1.1.0-release
+## Version 0.1.1.0-release
 
 * 2016-11-24
 * Released for Kerbal Space Program 1.2.1
@@ -26,7 +26,7 @@
 
 ---
 
-* ## Version 0.1.0.0-release
+## Version 0.1.0.0-release
 
 Released for Kerbal Space Program 1.2.1
 * 2016-11-23
