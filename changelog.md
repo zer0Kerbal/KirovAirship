@@ -17,14 +17,21 @@
 * Create
   * <en-us.cfg>
   * Localization/
-    * [readme.md] v
-    * [quickstart.md] v
+    * [readme.md] v2.1.1.0
+    * [quickstart.md] v1.0.1.0
   * 
   * updates #9 - Localization - Master
   * closes #10 - American English <us-en.cfg>
   * closes #26 - Part Localization
 
-## Adoption
+### Assets
+
+* Update
+  * move to Assets/
+  * convert mbm to png (35mb -> 8.43mb)
+  * update pointers in .mu
+
+### Adoption
 
 * Create
   * docs/
