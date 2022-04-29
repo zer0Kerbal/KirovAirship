@@ -1,7 +1,7 @@
 Kirov Airship Mod
 =================
 Author:Icecovery Studio
-Version:0.1.0
+Version:0.1.1
 License:CC-BY-SA 4.0
 =================
 Need:
