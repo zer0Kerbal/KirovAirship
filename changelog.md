@@ -30,6 +30,7 @@
   * move to Assets/
   * convert mbm to png (35mb -> 8.43mb)
   * update pointers in .mu
+  * [model.mu] renamed to [KirovAirshipBody.mu]
 
 ### Adoption
 
