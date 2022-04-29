@@ -10,6 +10,38 @@
 | spacedock  | (https://spacedock.info/mod/1084)                                 |
 | ckan       | KirovAirship                                                      |
 
+## Version 0.1.99.0-adoption `<NAME>`
+
+## Localization
+
+* Create
+  * <en-us.cfg>
+  * Localization/
+    * [readme.md] v
+    * [quickstart.md] v
+  * 
+  * updates #9 - Localization - Master
+  * closes #10 - American English <us-en.cfg>
+  * closes #26 - Part Localization
+
+## Adoption
+
+* Create
+  * docs/
+    * d
+
+### Status
+
+* Issues
+  * closes 2 - KirovAirship 0.1.99.0-adoption <NAME>
+  * closes 3 - 0.1.99.0 Verify Legal Mumbo Jumbo
+  * closes 4 - 0.1.99.0 Update Documentation
+  * closes 5 - 0.1.99.0 Create Social Media
+
+
+
+---
+
 ## Version 0.1.1.0-release
 
 * 2016-11-24
