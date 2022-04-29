@@ -12,9 +12,18 @@
 
 ## Version 0.1.99.0-adoption `<NAME>`
 
-## Localization
+## Part Localization
+
+
+* Parts to localize
+  * [KirovAirship.cfg]
+  * [KirovRadialProp.cfg]
+  * [KirovBomb.cfg]
+  * [KirovGun.cfg]
 
 * Create
+  * Agency
+  * Flags
   * <en-us.cfg>
   * Localization/
     * [readme.md] v2.1.1.0
@@ -23,6 +32,7 @@
   * updates #9 - Localization - Master
   * closes #10 - American English <us-en.cfg>
   * closes #26 - Part Localization
+  * closes #30 - create agency
 
 ### Assets
 
