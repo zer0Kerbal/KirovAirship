@@ -28,8 +28,8 @@
 
 ## Version 0.1.0.0-release
 
-Released for Kerbal Space Program 1.2.1
 * 2016-11-23
+* Released for Kerbal Space Program 1.2.1
 
 * *No changelog provided*
 * [Download (29.40 MiB)](https://spacedock.info/mod/1084/Kirov%20AirShip/download/0.1.0)
