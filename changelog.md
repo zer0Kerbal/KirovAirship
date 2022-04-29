@@ -31,6 +31,14 @@
   * convert mbm to png (35mb -> 8.43mb)
   * update pointers in .mu
   * [model.mu] renamed to [KirovAirshipBody.mu]
+  * [model.mu] renamed to [KirovBomb.mu]
+  * [model.mu] renamed to [KirovGun.mu]
+  * [radialProp.mu] renamed to [KirovRadialProp.mu]
+
+
+  * [part.cfg] renamed to [KirovAirshipBody.cfg]
+  * [Bomb.cfg] renamed to [KirovBomb.cfg]
+  * [KAX_radialProp.cfg] renamed to [KirovRadialProp.cfg]
 
 ### Adoption
 
